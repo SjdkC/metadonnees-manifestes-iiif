@@ -1,7 +1,7 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
    "@type":"sc:Manifest",
-   "@id":"https://gallica.bnf.fr/iiif/ark:/12148/btv1b104635586/manifest.json",
+   "@id":"https://raw.githubusercontent.com/SjdkC/metadonnees-manifestes-iiif/main/manifest_exemple_v2.json",
    "label":"BnF. Mission pour la gestion de la production documentaire et des archives. 2011/091/ACM01-03",
    "attribution":"Bibliothèque nationale de France",
    "license":"https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
