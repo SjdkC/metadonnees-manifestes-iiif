@@ -1,7 +1,7 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
    "@type":"sc:Manifest",
-   "@id":"https://raw.githubusercontent.com/SjdkC/metadonnees-manifestes-iiif/main/manifest_exemple_v2.json",
+   "@id":"https://gallica.bnf.fr/iiif/ark:/12148/btv1b104635586/manifest.json",
    "label":"BnF. Mission pour la gestion de la production documentaire et des archives. 2011/091/ACM01-03",
    "attribution":"Bibliothèque nationale de France",
    "license":"https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
@@ -24,6 +24,10 @@
    "within":"https://exemple.fr/lien-vers-la-collection-iiif",
    "description":"Archives du cabinet des médailles, série chronologique. Archives du cabinet des médailles (1650 -1727). Liste de pierres gravées réparties en onze articles avec leur estimation, annotée par Pierre de Carcavi, \"cotté 139\", 23 décembre 1667.",
    "metadata":[
+      {
+         "label":"Institution de conservation",
+         "value":"Bibliothèque nationale de France"
+      },
       {
          "label":"Cote",
          "value":"Bibliothèque nationale de France. Mission pour la gestion de la production documentaire et des archives. 2011/091/ACM01-03"
