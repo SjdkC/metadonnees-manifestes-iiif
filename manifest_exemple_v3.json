@@ -3,7 +3,7 @@
       "http://iiif.io/api/presentation/3/context.json"
    ],
    "type":"Manifest",
-   "id":"https://raw.githubusercontent.com/SjdkC/metadonnees-manifestes-iiif/main/manifest_exemple_v3.json",
+   "id":"https://api.npoint.io/aa5fb856ee61cef6c7c1",
    "label":{
       "fr":[
          "BnF. Mission pour la gestion de la production documentaire et des archives. 2011/091/ACM01-03"
@@ -117,6 +117,18 @@
       ]
    },
    "metadata":[
+      {
+         "label":{
+            "fr":[
+               "Institution de conservation"
+            ]
+         },
+         "value":{
+            "fr":[
+               "Bibliothèque nationale de France"
+            ]
+         }
+      },
       {
          "label":{
             "fr":[
