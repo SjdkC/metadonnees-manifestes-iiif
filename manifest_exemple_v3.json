@@ -44,7 +44,7 @@
    "requiredStatement":{
       "label":{
          "fr":[
-            "Institution de conservation"
+            "Lieu de conservation"
          ]
       },
       "value":{
@@ -54,7 +54,7 @@
       },
       "label":{
          "fr":[
-            "Licence"
+            "Licence pour la réutilisation"
          ]
       },
       "value":{
@@ -69,7 +69,7 @@
          "type":"Text",
          "label":{
             "fr":[
-               "Notice du document"
+               "Lien vers la notice du document sur le site d'origine"
             ]
          },
          "format":"text/html"
@@ -120,18 +120,6 @@
       {
          "label":{
             "fr":[
-               "Institution de conservation"
-            ]
-         },
-         "value":{
-            "fr":[
-               "Bibliothèque nationale de France"
-            ]
-         }
-      },
-      {
-         "label":{
-            "fr":[
                "Cote"
             ]
          },
@@ -150,6 +138,18 @@
          "value":{
             "fr":[
                "Précision sur la cote du document"
+            ]
+         }
+      },
+      {
+         "label":{
+            "fr":[
+               "Lieu de conservation"
+            ]
+         },
+         "value":{
+            "fr":[
+               "Bibliothèque nationale de France"
             ]
          }
       },
@@ -180,7 +180,7 @@
       {
          "label":{
             "fr":[
-               "Producteur"
+               "Producteur des archives"
             ]
          },
          "value":{
@@ -192,7 +192,7 @@
       {
          "label":{
             "fr":[
-               "Fonds"
+               "Intitulé du fonds"
             ]
          },
          "value":{
@@ -252,18 +252,6 @@
       {
          "label":{
             "fr":[
-               "État de conservation"
-            ]
-         },
-         "value":{
-            "fr":[
-               "État de conservation du document"
-            ]
-         }
-      },
-      {
-         "label":{
-            "fr":[
                "Langue"
             ]
          },
@@ -276,7 +264,7 @@
       {
          "label":{
             "fr":[
-               "Personnes/Institutions/Familles"
+               "Personne ou Institution ou Famille"
             ]
          },
          "value":{
@@ -288,7 +276,7 @@
       {
          "label":{
             "fr":[
-               "Lieux"
+               "Lieu"
             ]
          },
          "value":{
@@ -300,7 +288,7 @@
       {
          "label":{
             "fr":[
-               "Thèmes"
+               "Thème"
             ]
          },
          "value":{
@@ -312,19 +300,19 @@
       {
          "label":{
             "fr":[
-               "Conditions d'utilisation"
+               "Conditions de réutilisation"
             ]
          },
          "value":{
             "fr":[
-               "Description des conditions d'utilisation"
+               "Description des conditions de réutilisation"
             ]
          }
       },
       {
          "label":{
             "fr":[
-               "Instrument de recherche"
+               "Inventaire"
             ]
          },
          "value":{

@@ -8,7 +8,7 @@
    "logo":"https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
    "related":{
       "@id":"https://gallica.bnf.fr/ark:/12148/btv1b104635586",
-      "label":"Notice du document",
+      "label":"Lien vers la notice du document sur le site d'origine",
       "format":"text/html"
    },
    "related":{
@@ -25,16 +25,16 @@
    "description":"Archives du cabinet des médailles, série chronologique. Archives du cabinet des médailles (1650 -1727). Liste de pierres gravées réparties en onze articles avec leur estimation, annotée par Pierre de Carcavi, \"cotté 139\", 23 décembre 1667.",
    "metadata":[
       {
-         "label":"Institution de conservation",
-         "value":"Bibliothèque nationale de France"
-      },
-      {
          "label":"Cote",
          "value":"Bibliothèque nationale de France. Mission pour la gestion de la production documentaire et des archives. 2011/091/ACM01-03"
       },
       {
          "label":"Précision sur la cote",
          "value":"Précision sur la cote du document"
+      },
+      {
+         "label":"Lieu de conservation",
+         "value":"Bibliothèque nationale de France"
       },
       {
          "label":"Date",
@@ -45,11 +45,11 @@
          "value":"Auteur du document"
       },
       {
-         "label":"Producteur",
+         "label":"Producteur des archives",
          "value":"Identité du producteur"
       },
       {
-         "label":"Fonds",
+         "label":"Intitulé du fonds",
          "value":"Intitulé du fonds"
       },
       {
@@ -69,31 +69,27 @@
          "value":"Dimensions du document"
       },
       {
-         "label":"État de conservation",
-         "value":"État de conservation du document"
-      },
-      {
          "label":"Langue",
          "value":"Français"
       },
       {
-         "label":"Personnes/Institutions/Familles",
+         "label":"Personne ou Institution ou Famille",
          "value":"Terme d'indexation 1, Terme d'indexation 2"
       },
       {
-         "label":"Lieux",
+         "label":"Lieu",
          "value":"Terme d'indexation 1, terme d'indexation 2"
       },
       {
-         "label":"Thèmes",
+         "label":"Thème",
          "value":"Terme d'indexation 1, terme d'indexation 2"
       },
       {
-         "label":"Conditions d'utilisation",
-         "value":"Description des conditions d'utilisation"
+         "label":"Conditions de réutilisation",
+         "value":"Description des conditions de réutilisation"
       },
       {
-         "label":"Instrument de recherche",
+         "label":"Inventaire",
          "value":"Lien vers l'instrument de recherche sur votre site"
       }
    ],
