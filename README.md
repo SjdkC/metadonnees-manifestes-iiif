@@ -1,5 +1,7 @@
 # Préconisations sur les métadonnées des Manifestes IIIF de documents d'archives
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12207173.svg)](https://doi.org/10.5281/zenodo.12207173)
+
 Ce dépôt contient des préconisations portant sur les métadonnées qu’il est recommandé de faire figurer dans les Manifestes IIIF correspondant à des documents d’archives. Ces préconisations sont le fruit d'un groupe de travail animé par le Service Interministériel des Archives de France et Biblissima+ entre décembre 2023 et juin 2024. En annexe, ce dépôt contient deux Manifestes IIIF exemples (versions 2 et 3 de l'API Présentation) reprenant les métadonnées préconisées.
 
  L’objectif de ces préconisations est de :
